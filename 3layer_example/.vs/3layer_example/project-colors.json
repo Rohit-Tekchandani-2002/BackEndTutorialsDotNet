@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f497bbb-8f5d-4c17-aeeb-75e090cc4ed5": {
+      "ProjectGuid": "9f497bbb-8f5d-4c17-aeeb-75e090cc4ed5",
+      "DisplayName": "3layer_example",
+      "ColorIndex": 0
+    },
+    "a695eb90-10d9-4d72-803f-17efc31310e2": {
+      "ProjectGuid": "a695eb90-10d9-4d72-803f-17efc31310e2",
+      "DisplayName": "3layer_example.Entities",
+      "ColorIndex": 1
+    },
+    "c2f732bf-7186-4463-93d5-8d7a09a3c2f2": {
+      "ProjectGuid": "c2f732bf-7186-4463-93d5-8d7a09a3c2f2",
+      "DisplayName": "3layer_example.Repositories",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
